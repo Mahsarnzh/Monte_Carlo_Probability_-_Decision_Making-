@@ -13,4 +13,4 @@ This Python script generates an animated random walk of a circle in a maze using
 
 1. **Clone the Repository:**
    ```bash
-   [git clone https://github.com/your-username/your-repository.git](https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making.git)https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making.git
+   git clone https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making.git)https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making.git
