@@ -24,7 +24,8 @@ git clone https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making.g
 
 ```
 # If using Homebrew
-brew install git```
+brew install git
+```
 
 # Random Walk in a Maze Animation
 
