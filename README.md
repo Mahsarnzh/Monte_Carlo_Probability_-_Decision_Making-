@@ -1,5 +1,8 @@
 ## Instructions:
 
+# Cloning and Running a Repository on macOS
+
+This guide outlines the steps for macOS users to clone a repository from GitHub and run it on their computer using Bash commands.
 
 ## 1. Install Git
 
@@ -21,7 +24,8 @@ This Python script generates an animated random walk of a circle in a maze using
 - The animation is created using `FuncAnimation` from Matplotlib.
 
 
-2. **Clone the Repository:**
+## 2. **Clone the Repository:**
+
    ```bash
    git clone https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making.git 
 
