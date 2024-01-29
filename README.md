@@ -29,7 +29,7 @@ cd Monte_Carlo_Probability_Decision_Making
 Execute the script using the appropriate command. For example:
 
 ```
-python MC_Probability_Decision_Making.py.py
+python MC_Probability_Decision_Making.py
 ```
 
 # Code Overview
