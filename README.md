@@ -11,6 +11,7 @@ brew install git
 ```
 
 Ensure that Git is installed on your macOS system. You can install it using Homebrew or download the installer from the official Git website:
+https://pages.github.com/
 
 
 ## 2. Clone the Repository
