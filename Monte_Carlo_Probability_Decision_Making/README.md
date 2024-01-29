@@ -8,7 +8,7 @@
 # Random Walk in a Maze Animation
 This Python script generates an animated random walk of a circle in a maze using Matplotlib. The circle starts at a specified position in the maze and takes random steps (up, down, left, or right) at each frame.
 
-![Sample Image](https://github.com/YourUsername/YourRepository/raw/main/path/to/your/image.jpg)
+![Sample frame](https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making/blob/main/MDP.png)
 
 ## Instructions:
 
@@ -31,16 +31,24 @@ To clone the repository, use the following command:
 ```
 git clone https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making.git
 ```
+
 ## 3. Navigate to the Repository
 Change your working directory to the cloned repository:
-
 ```
 cd Monte_Carlo_Probability_Decision_Making
 ```
-## 4 Run the Script
-Execute the script using the appropriate command. For example:
+
+## 4. Activate Conda Environment
+Navigate to the cloned repository directory and activate the Conda environment using the following command:
+```
+conda activate myenv
+```
+install required packages for MC_Probability_Decision_Making.py
+
+## 5. Run the Script
+Execute the script using the appropriate command based on your python version. For example:
 
 ```
-python MC_Probability_Decision_Making.py
+python3 MC_Probability_Decision_Making.py
 ```
 
