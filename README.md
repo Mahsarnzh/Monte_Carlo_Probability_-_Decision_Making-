@@ -1,5 +1,3 @@
-
-
 ## Instructions:
 
 # Cloning and Running a Repository on macOS
@@ -19,14 +17,14 @@ Ensure that Git is installed on your macOS system. You can install it using Home
 
 ## 2. Clone the Repository
 To clone the repository, use the following command:
-```bash
+```
 git clone https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making.git
+```
 
 
-
-```bash
+```
 # If using Homebrew
-brew install git
+brew install git```
 
 # Random Walk in a Maze Animation
 
