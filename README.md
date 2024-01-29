@@ -1,3 +1,5 @@
+
+
 ## Instructions:
 
 # Cloning and Running a Repository on macOS
@@ -8,14 +10,6 @@ This guide outlines the steps for macOS users to clone a repository from GitHub 
 
 Ensure that Git is installed on your macOS system. You can install it using Homebrew or download the installer from the official Git website:
 
-```bash
-# If using Homebrew
-brew install git```
-
-# Random Walk in a Maze Animation
-
-This Python script generates an animated random walk of a circle in a maze using Matplotlib. The circle starts at a specified position in the maze and takes random steps (up, down, left, or right) at each frame.
-
 # Code Overview
 
 - The maze is represented as a 2D array with zeros indicating empty spaces.
@@ -24,8 +18,16 @@ This Python script generates an animated random walk of a circle in a maze using
 - The animation is created using `FuncAnimation` from Matplotlib.
 
 ## 2. Clone the Repository
-
 To clone the repository, use the following command:
-
 ```bash
 git clone https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making.git
+
+
+
+```bash
+# If using Homebrew
+brew install git
+
+# Random Walk in a Maze Animation
+
+This Python script generates an animated random walk of a circle in a maze using Matplotlib. The circle starts at a specified position in the maze and takes random steps (up, down, left, or right) at each frame.
