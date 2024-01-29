@@ -10,7 +10,7 @@ Ensure that Git is installed on your macOS system. You can install it using Home
 
 ```bash
 # If using Homebrew
-brew install git
+brew install git```
 
 # Random Walk in a Maze Animation
 
@@ -28,7 +28,7 @@ This Python script generates an animated random walk of a circle in a maze using
 
    ```bash
    git clone https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making.git 
-
+```
 
 # Cloning and Running a Repository on macOS
 
