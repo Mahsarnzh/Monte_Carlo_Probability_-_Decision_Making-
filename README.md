@@ -14,3 +14,16 @@ This Python script generates an animated random walk of a circle in a maze using
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making.git 
+
+
+# Cloning and Running a Repository on macOS
+
+This guide outlines the steps for macOS users to clone a repository from GitHub and run it on their computer using Bash commands.
+
+## 1. Install Git
+
+Ensure that Git is installed on your macOS system. You can install it using Homebrew or download the installer from the official Git website:
+
+```bash
+# If using Homebrew
+brew install git
