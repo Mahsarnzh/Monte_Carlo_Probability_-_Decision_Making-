@@ -19,7 +19,18 @@ To clone the repository, use the following command:
 ```
 git clone https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making.git
 ```
+## 3. Navigate to the Repository
+Change your working directory to the cloned repository:
 
+```
+cd Monte_Carlo_Probability_Decision_Making
+```
+## 4 Run the Script
+Execute the script using the appropriate command. For example:
+
+```
+python MC_Probability_Decision_Making.py.py
+```
 
 # Code Overview
 
