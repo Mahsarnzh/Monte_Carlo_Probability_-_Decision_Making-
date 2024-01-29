@@ -1,6 +1,6 @@
 ## Instructions:
 
-# Cloning and Running a Repository on macOS
+# Cloning and Running this Repository on macOS
 
 This guide outlines the steps for macOS users to clone a repository from GitHub and run it on their computer using Bash commands.
 
