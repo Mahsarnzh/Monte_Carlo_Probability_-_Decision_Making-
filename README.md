@@ -31,13 +31,21 @@ To clone the repository, use the following command:
 ```
 git clone https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making.git
 ```
+
 ## 3. Navigate to the Repository
 Change your working directory to the cloned repository:
-
 ```
 cd Monte_Carlo_Probability_Decision_Making
 ```
-## 4 Run the Script
+
+## 4. Activate Conda Environment
+Navigate to the cloned repository directory and activate the Conda environment using the following command:
+```
+conda activate myenv
+```
+install required packages for MC_Probability_Decision_Making.py
+
+## 5. Run the Script
 Execute the script using the appropriate command based on your python version. For example:
 
 ```
