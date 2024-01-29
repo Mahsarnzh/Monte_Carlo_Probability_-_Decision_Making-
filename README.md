@@ -8,6 +8,7 @@
 # Random Walk in a Maze Animation
 This Python script generates an animated random walk of a circle in a maze using Matplotlib. The circle starts at a specified position in the maze and takes random steps (up, down, left, or right) at each frame.
 
+![Sample Image](https://github.com/YourUsername/YourRepository/raw/main/path/to/your/image.jpg)
 
 ## Instructions:
 
