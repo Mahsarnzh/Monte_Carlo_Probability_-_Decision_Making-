@@ -38,9 +38,9 @@ Change your working directory to the cloned repository:
 cd Monte_Carlo_Probability_Decision_Making
 ```
 ## 4 Run the Script
-Execute the script using the appropriate command. For example:
+Execute the script using the appropriate command based on your python version. For example:
 
 ```
-python MC_Probability_Decision_Making.py
+python3 MC_Probability_Decision_Making.py
 ```
 
