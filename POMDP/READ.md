@@ -16,6 +16,7 @@ This repository contains Python code for simulating a simple agent in a maze env
    - The agent's movements are visualized using Matplotlib.
    - The current position of the agent is represented by a red circle, and the target position is represented by a yellow square.
 
+![Sample frame](https://github.com/Mahsarnzh/Monte_Carlo_Probability_Decision_Making/blob/main/POMDP/POMDP.png)
 
 ## Instructions:
 
