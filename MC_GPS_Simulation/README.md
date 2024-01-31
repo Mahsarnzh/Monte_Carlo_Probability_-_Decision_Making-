@@ -6,8 +6,6 @@
 # The latitude is calculated by adding a randomly generated error to the actual measurement, incorporating uncertainty into the system.
 
 # Code:
-
-```
 import numpy as np
 
 def monte_carlo_gps_estimation(actual_latitude, error_stddev, num_simulations=1000):
@@ -28,4 +26,4 @@ num_simulations = 1000
 simulated_latitudes = monte_carlo_gps_estimation(actual_latitude, error_stddev, num_simulations)
 
 # Print results or perform further analysis with simulated_latitudes
-```
+
