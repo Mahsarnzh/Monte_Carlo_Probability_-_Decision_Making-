@@ -1,4 +1,4 @@
-# Code Overview for Partially_Observable_MonteCarlo_Probability_DecisionMaking_Process
+# Code Overview for Partially_Observable_MonteCarlo_Probability_DecisionMaking_Process (POMDP)
 
 - The maze is represented as a 2D array with zeros indicating empty spaces.
 - The circle is represented by a red circle patch in the Matplotlib plot.
