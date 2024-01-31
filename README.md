@@ -19,12 +19,13 @@ This repository contains Python code for simulating a simple agent in a maze env
 
 ### Key Components
 1. **Agent Movement Simulation:**
-   - The agent moves in a maze environment based on Monte Carlo probability decision making.
+   - The agent moves in a maze environment based on Partially Observable Monte Carlo probability decision making.
    - The maze is represented as a grid, and the agent aims to reach a randomly generated target position.
 
 2. **Neural Network Model:**
    - A simple neural network model is implemented using PyTorch.
-   - The neural network takes the agent's current position as input and outputs probabilities for possible moves (up, down, left, right).
+   - The neural network takes the agent's current position as input and outputs probabilities for possible moves (up, down, left, right) to get closer to the generated random number (yellow rectangle)
+   - In each step a measurement is made for current position of the circle for optimizing the next steps
 
 3. **Visualization:**
    - The agent's movements are visualized using Matplotlib.
