@@ -12,7 +12,7 @@ This Python script generates an animated random walk of a circle in a maze using
 
 
 
-# Code Overview for POMDP (Partially Observable Monte Carlo Decision Process
+# Code Overview for POMDP (Partially Observable Monte_Carlo Decision Process) Simulation
 
 ### Overview
 This repository contains Python code for simulating a simple agent in a maze environment using Monte Carlo probability-based decision making. The code utilizes Matplotlib for visualization and PyTorch for implementing a neural network model that guides the agent's decisions.
