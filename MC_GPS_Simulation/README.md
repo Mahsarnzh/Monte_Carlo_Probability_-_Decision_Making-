@@ -1,10 +1,3 @@
-# Code Overview for an example use case of Monte Carlo for estimating the real location of a system in GPS systems
-
-- The code takes the error based on specified standard deviation based on previous measurements: i.e Actual latitude vs simulated latitude
-- Generates a random variable within the error bounds (min error, max error) lat_error = np.random.normal(0, lat_error_stddev)
-- Calculates the latitude by adding the random generated error to the actual measurement of latitude
-- This incirporates uncertainty in to the system
-
 # Monte Carlo Simulation for GPS Location Estimation
 
 # Overview:
@@ -14,6 +7,7 @@
 
 # Code:
 
+```
 import numpy as np
 
 def monte_carlo_gps_estimation(actual_latitude, error_stddev, num_simulations=1000):
@@ -34,3 +28,4 @@ num_simulations = 1000
 simulated_latitudes = monte_carlo_gps_estimation(actual_latitude, error_stddev, num_simulations)
 
 # Print results or perform further analysis with simulated_latitudes
+```
